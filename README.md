@@ -4,6 +4,7 @@
 - 🔭 I’m currently working at @FreightLogics Systems Inc as a 👨‍💻 ***Software Developer***.
 - 🌱 I’m currently learning ***Angular && Ionic***.
 - 💬 Ask me about ... everything!
+- 📫 How to reach me: [Email](fmashoshin@gmail.com) || [LinkedIn](https://www.linkedin.com/in/fedor-mashoshin/)
 - ⚡ Fun fact: Was born in 🇷🇺 Russia and moved to 🇨🇦 Canada in 2️⃣ 0️⃣ 2️⃣ 0️⃣
 
 ## Languages and Tools:
