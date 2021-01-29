@@ -6,15 +6,13 @@
 - 💬 Ask me about ... everything!
 - ⚡ Fun fact: Was born in 🇷🇺 Russia and moved to 🇨🇦 Canada in 2️⃣ 0️⃣ 2️⃣ 0️⃣
 <br/>
-___
-
 <br/>
 
 ## Languages and Tools:
-<img align="center" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="center" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />    
-<img align="center" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />     
-<img align="center" alt="Sass" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /> 
+<img align="center" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /><img align="center" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+
+<img align="center" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="center" alt="Sass" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="center" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="center" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="center" alt="Gatsby" width="30px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/angular/angular.png" />
@@ -34,5 +32,5 @@ ____
 
 
 
-![FedorMashoshin's GitHub stats](https://github-readme-stats.vercel.app/api?username=FedorMashoshin&show_icons=true)
-![FedorMashoshin's GitHub language usage stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FedorMashoshin&layout=compact&hide=TSQL)
+![FedorMashoshin's GitHub stats](https://github-readme-stats.vercel.app/api?username=FedorMashoshin&show_icons=true&theme=slateorange)
+![FedorMashoshin's GitHub language usage stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FedorMashoshin&layout=compact&theme=slateorange&hide=TSQL)
