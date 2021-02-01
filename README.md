@@ -16,8 +16,8 @@
 <details>
   <summary> Open GutHub stats</summary>
 
-![FedorMashoshin's GitHub stats](https://github-readme-stats.vercel.app/api?username=FedorMashoshin&show_icons=true&title_color=000084&text_color=D5331E&icon_color=feb729&bg_color=f8f8ff)
-![FedorMashoshin's GitHub language usage stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FedorMashoshin&layout=compact&hide=TSQL&bg_color=F8F8FF&title_color=000084&text_color=D5331E&icon_color=feb729)
+![FedorMashoshin's GitHub stats](https://github-readme-stats.vercel.app/api?username=FedorMashoshin&show_icons=true&title_color=000084&text_color=D5331E&icon_color=feb729&bg_color=f8f8ff&line_height=20)
+![FedorMashoshin's GitHub language usage stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FedorMashoshin&layout=compact&hide=TSQL&bg_color=F8F8FF&title_color=000084&text_color=D5331E&icon_color=feb729&langs_count=7)
 </details>
 
 
