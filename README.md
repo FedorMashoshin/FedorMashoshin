@@ -25,11 +25,11 @@
   <summary> Recent GitHub activities</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#846](https://github.com/anuraghazra/github-readme-stats/pull/846) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-2. 🎉 Merged PR [#4](https://github.com/FedorMashoshin/Ionic-WeatherApp/pull/4) in [FedorMashoshin/Ionic-WeatherApp](https://github.com/FedorMashoshin/Ionic-WeatherApp)
-3. 💪 Opened PR [#4](https://github.com/FedorMashoshin/Ionic-WeatherApp/pull/4) in [FedorMashoshin/Ionic-WeatherApp](https://github.com/FedorMashoshin/Ionic-WeatherApp)
-4. 🎉 Merged PR [#3](https://github.com/FedorMashoshin/Ionic-WeatherApp/pull/3) in [FedorMashoshin/Ionic-WeatherApp](https://github.com/FedorMashoshin/Ionic-WeatherApp)
-5. 💪 Opened PR [#3](https://github.com/FedorMashoshin/Ionic-WeatherApp/pull/3) in [FedorMashoshin/Ionic-WeatherApp](https://github.com/FedorMashoshin/Ionic-WeatherApp)
+1. 💪 Opened PR [#13](https://github.com/FedorMashoshin/Ionic-Movie/pull/13) in [FedorMashoshin/Ionic-Movie](https://github.com/FedorMashoshin/Ionic-Movie)
+2. 💪 Opened PR [#846](https://github.com/anuraghazra/github-readme-stats/pull/846) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+3. 🎉 Merged PR [#4](https://github.com/FedorMashoshin/Ionic-WeatherApp/pull/4) in [FedorMashoshin/Ionic-WeatherApp](https://github.com/FedorMashoshin/Ionic-WeatherApp)
+4. 💪 Opened PR [#4](https://github.com/FedorMashoshin/Ionic-WeatherApp/pull/4) in [FedorMashoshin/Ionic-WeatherApp](https://github.com/FedorMashoshin/Ionic-WeatherApp)
+5. 🎉 Merged PR [#3](https://github.com/FedorMashoshin/Ionic-WeatherApp/pull/3) in [FedorMashoshin/Ionic-WeatherApp](https://github.com/FedorMashoshin/Ionic-WeatherApp)
 <!--END_SECTION:activity-->
 
   </details>
