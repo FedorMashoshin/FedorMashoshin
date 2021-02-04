@@ -1,6 +1,6 @@
 # Hellooo, I am Fedor Mashoshin 👋
 
-&#10003; &nbsp;  🔭 &nbsp; I’m currently working at [FreightLogics Systems Inc](https://www.freightlogics.com/) as a 👨‍💻 ***Software Developer***. <br/>
+&#10003; &nbsp;  🔭 &nbsp; I’m currently working at [FreightLogics Systems Inc](https://www.freightlogics.com/) as a 👨‍💻 ***`Software Developer`***. <br/>
 &#10003; &nbsp; 📖  &nbsp; I’m currently learning ***Angular && Ionic***.<br/>
 &#10003; &nbsp; 💬  &nbsp; Ask me about ... everything!<br/>
 &#10003; &nbsp; 📮  &nbsp; How to reach me: fmashoshin@gmail.com || [LinkedIn](https://www.linkedin.com/in/fedor-mashoshin/).<br/>
