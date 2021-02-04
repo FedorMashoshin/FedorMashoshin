@@ -4,7 +4,7 @@
 &#10003; &nbsp; 📖  &nbsp; I’m currently learning **`Angular && Ionic`**.<br/>
 &#10003; &nbsp; 💬  &nbsp; Ask me about ... everything!<br/>
 &#10003; &nbsp; 📮  &nbsp; How to reach me: fmashoshin@gmail.com || [LinkedIn](https://www.linkedin.com/in/fedor-mashoshin/).<br/>
-&#10003; &nbsp; 🤪  &nbsp; Fun fact: Was born in 🇷🇺 Russia and moved to 🇨🇦 Canada in 2020.<br/>
+&#10003; &nbsp; 🤪  &nbsp; Fun fact: Was born in `🇷🇺 Russia` and moved to `🇨🇦 Canada` in 2020.<br/>
 
 
 ## Languages and Tools:
