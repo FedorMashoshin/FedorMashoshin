@@ -25,11 +25,11 @@
   <summary> Recent GitHub activities</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14](https://github.com/FedorMashoshin/Ionic-Movie/pull/14) in [FedorMashoshin/Ionic-Movie](https://github.com/FedorMashoshin/Ionic-Movie)
-2. 🎉 Merged PR [#5](https://github.com/FedorMashoshin/Ionic-WeatherApp/pull/5) in [FedorMashoshin/Ionic-WeatherApp](https://github.com/FedorMashoshin/Ionic-WeatherApp)
-3. 💪 Opened PR [#5](https://github.com/FedorMashoshin/Ionic-WeatherApp/pull/5) in [FedorMashoshin/Ionic-WeatherApp](https://github.com/FedorMashoshin/Ionic-WeatherApp)
-4. 🎉 Merged PR [#13](https://github.com/FedorMashoshin/Ionic-Movie/pull/13) in [FedorMashoshin/Ionic-Movie](https://github.com/FedorMashoshin/Ionic-Movie)
-5. 💪 Opened PR [#13](https://github.com/FedorMashoshin/Ionic-Movie/pull/13) in [FedorMashoshin/Ionic-Movie](https://github.com/FedorMashoshin/Ionic-Movie)
+1. 🎉 Merged PR [#14](https://github.com/FedorMashoshin/Ionic-Movie/pull/14) in [FedorMashoshin/Ionic-Movie](https://github.com/FedorMashoshin/Ionic-Movie)
+2. 💪 Opened PR [#14](https://github.com/FedorMashoshin/Ionic-Movie/pull/14) in [FedorMashoshin/Ionic-Movie](https://github.com/FedorMashoshin/Ionic-Movie)
+3. 🎉 Merged PR [#5](https://github.com/FedorMashoshin/Ionic-WeatherApp/pull/5) in [FedorMashoshin/Ionic-WeatherApp](https://github.com/FedorMashoshin/Ionic-WeatherApp)
+4. 💪 Opened PR [#5](https://github.com/FedorMashoshin/Ionic-WeatherApp/pull/5) in [FedorMashoshin/Ionic-WeatherApp](https://github.com/FedorMashoshin/Ionic-WeatherApp)
+5. 🎉 Merged PR [#13](https://github.com/FedorMashoshin/Ionic-Movie/pull/13) in [FedorMashoshin/Ionic-Movie](https://github.com/FedorMashoshin/Ionic-Movie)
 <!--END_SECTION:activity-->
 
   </details>
