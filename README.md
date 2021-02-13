@@ -25,11 +25,11 @@
   <summary> Recent GitHub activities</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/FedorMashoshin/Ionic-Movie/pull/15) in [FedorMashoshin/Ionic-Movie](https://github.com/FedorMashoshin/Ionic-Movie)
-2. 💪 Opened PR [#15](https://github.com/FedorMashoshin/Ionic-Movie/pull/15) in [FedorMashoshin/Ionic-Movie](https://github.com/FedorMashoshin/Ionic-Movie)
-3. 🎉 Merged PR [#14](https://github.com/FedorMashoshin/Ionic-Movie/pull/14) in [FedorMashoshin/Ionic-Movie](https://github.com/FedorMashoshin/Ionic-Movie)
-4. 💪 Opened PR [#14](https://github.com/FedorMashoshin/Ionic-Movie/pull/14) in [FedorMashoshin/Ionic-Movie](https://github.com/FedorMashoshin/Ionic-Movie)
-5. 🎉 Merged PR [#5](https://github.com/FedorMashoshin/Ionic-WeatherApp/pull/5) in [FedorMashoshin/Ionic-WeatherApp](https://github.com/FedorMashoshin/Ionic-WeatherApp)
+1. 🎉 Merged PR [#1](https://github.com/FedorMashoshin/Ionic-Restaurant_finder/pull/1) in [FedorMashoshin/Ionic-Restaurant_finder](https://github.com/FedorMashoshin/Ionic-Restaurant_finder)
+2. 💪 Opened PR [#1](https://github.com/FedorMashoshin/Ionic-Restaurant_finder/pull/1) in [FedorMashoshin/Ionic-Restaurant_finder](https://github.com/FedorMashoshin/Ionic-Restaurant_finder)
+3. 🎉 Merged PR [#15](https://github.com/FedorMashoshin/Ionic-Movie/pull/15) in [FedorMashoshin/Ionic-Movie](https://github.com/FedorMashoshin/Ionic-Movie)
+4. 💪 Opened PR [#15](https://github.com/FedorMashoshin/Ionic-Movie/pull/15) in [FedorMashoshin/Ionic-Movie](https://github.com/FedorMashoshin/Ionic-Movie)
+5. 🎉 Merged PR [#14](https://github.com/FedorMashoshin/Ionic-Movie/pull/14) in [FedorMashoshin/Ionic-Movie](https://github.com/FedorMashoshin/Ionic-Movie)
 <!--END_SECTION:activity-->
 
   </details>
