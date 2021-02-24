@@ -2,7 +2,6 @@
 
 &#10003; &nbsp;  I’m currently working at [FreightLogics Systems Inc](https://www.freightlogics.com/) as a **`👨‍💻  Software Developer`**<br/>
 &#10003; &nbsp;   I’m currently learning **`Angular && Ionic`**<br/>
-&#10003; &nbsp;  Ask me about ... everything!<br/>
 &#10003; &nbsp;   How to reach me: fmashoshin@gmail.com || [LinkedIn](https://www.linkedin.com/in/fedor-mashoshin/)<br/>
 &#10003; &nbsp;   Fun fact: Was born in `🇷🇺 Russia` and moved to `🇨🇦 Canada` in 2020<br/>
 
