@@ -1,4 +1,4 @@
-# Hellooo, I am Fedor Mashoshin 👋
+# Hellooo, I am Fedor 👋
 
 &#10003; &nbsp;  Working at [FreightLogics Systems Inc](https://www.freightlogics.com/) as a **`👨‍💻  Software Developer`**<br/>
 &#10003; &nbsp;  Learning **`Angular && Ionic`**<br/>
