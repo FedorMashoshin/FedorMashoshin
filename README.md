@@ -18,16 +18,3 @@
 ![FedorMashoshin's GitHub language usage stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FedorMashoshin&layout=compact&hide=TSQL&bg_color=F8F8FF&title_color=000084&text_color=D5331E&icon_color=feb729&langs_count=7)
 </details>
 
-
-<details>
-  <summary> Recent GitHub activities</summary>
-  
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/FedorMashoshin/Ionic-GroceryApp/pull/1) in [FedorMashoshin/Ionic-GroceryApp](https://github.com/FedorMashoshin/Ionic-GroceryApp)
-2. 💪 Opened PR [#1](https://github.com/FedorMashoshin/Ionic-GroceryApp/pull/1) in [FedorMashoshin/Ionic-GroceryApp](https://github.com/FedorMashoshin/Ionic-GroceryApp)
-3. 💪 Opened PR [#2](https://github.com/FedorMashoshin/Ionic-Restaurant_finder/pull/2) in [FedorMashoshin/Ionic-Restaurant_finder](https://github.com/FedorMashoshin/Ionic-Restaurant_finder)
-4. 🎉 Merged PR [#1](https://github.com/FedorMashoshin/Ionic-Restaurant_finder/pull/1) in [FedorMashoshin/Ionic-Restaurant_finder](https://github.com/FedorMashoshin/Ionic-Restaurant_finder)
-5. 💪 Opened PR [#1](https://github.com/FedorMashoshin/Ionic-Restaurant_finder/pull/1) in [FedorMashoshin/Ionic-Restaurant_finder](https://github.com/FedorMashoshin/Ionic-Restaurant_finder)
-<!--END_SECTION:activity-->
-
-  </details>
