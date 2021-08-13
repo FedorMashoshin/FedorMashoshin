@@ -1,9 +1,9 @@
 # Fedor is here 👋
 
-&#10003; &nbsp;  Working at [FreightLogics Systems Inc](https://www.freightlogics.com/) as a **`👨‍💻  Software Developer 💻`**<br/>
-&#10003; &nbsp;  Learning **`Angular && Ionic`**<br/>
-&#10003; &nbsp;  How to reach me: fmashoshin@gmail.com || [LinkedIn](https://www.linkedin.com/in/fedor-mashoshin/)<br/>
-&#10003; &nbsp;  Was born in **`🇷🇺 Russia`** and moved to **`🇨🇦 Canada`** in 2020<br/>
+&#10003; &nbsp;  Working at [FreightLogics Systems Inc](https://www.freightlogics.com/) as a **`👨‍💻  Software Developer 💻`**;<br/>
+&#10003; &nbsp;  Learning **`Angular && Ionic`**;<br/>
+&#10003; &nbsp;  How to reach me: fmashoshin@gmail.com || [LinkedIn](https://www.linkedin.com/in/fedor-mashoshin/);<br/>
+&#10003; &nbsp;  Was born in **`🇷🇺 Russia`** and moved to **`🇨🇦 Canada`** in 2020;<br/>
 
 
 ## Languages and Tools
