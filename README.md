@@ -1,6 +1,6 @@
 # Fedor is here 👋
 
-&#10003; &nbsp;  Learning **`Angular && Python`**<br/>
+&#10003; &nbsp;  Skilled in **`JavaScript/Typescript (Angular + React), Python`**<br/>
 &#10003; &nbsp;  How to reach me: fmashoshin@gmail.com || [LinkedIn](https://www.linkedin.com/in/fedor-mashoshin/)<br/>
 &#10003; &nbsp;  Was born in **`🇷🇺 Russia`** and moved to **`🇨🇦 Canada`** in 2020<br/>
 
